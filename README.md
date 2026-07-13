@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=30&pause=1500&color=4B5563&center=true&vCenter=true&multiline=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashwini;Backend+%2B+AI%2FML+builder;Exploring+distributed+systems)](https://git.io/typing-svg)
 
-Hi 👋, I'm Ashwini, a student from Bengaluru who enjoys building AI-powered tools and distributed systems — from smart civic apps to face-recognition attendance systems.
-
+Hi 👋, I'm Ashwini
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashvinigowda1808@gmail.com)
 
 </div>
