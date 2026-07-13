@@ -32,6 +32,19 @@
 
 <br>
 
+### GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashvinigowda&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashvinigowda&hide_border=true" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvinigowda&hide_border=true&bg_color=ffffff" alt="Contribution activity graph">
+</p>
+
+<br>
+
 <p align="center">
   <sub>Thanks for stopping by!</sub>
 </p>
