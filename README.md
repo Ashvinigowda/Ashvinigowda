@@ -4,31 +4,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-A developer who enjoys building AI-powered tools and distributed systems — from smart civic apps to face-recognition attendance systems.
+Hi 👋, I'm Ashwini, a student from Bengaluru who enjoys building AI-powered tools and distributed systems — from smart civic apps to face-recognition attendance systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00E5FF)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:ashvinigowda1808@gmail.com)
 
 </div>
-
-### About Me 👩🏻‍💻
-
-- 🔭 Currently working on **civictrack-ai** and **cityflow-predictor**
-- 🌱 Learning more about distributed systems and cloud orchestration
-- 💬 Ask me about **Python, TypeScript, React**
-- 🧠 Interested in **AI/ML**, computer vision, and smart-city tech
-- ⚡ Fun fact: **smart-face-attendance** started as a weekend hack
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### My Projects 🚀
-
-| civictrack-ai 🏙️ <br> Civic issue tracking powered by AI — report and monitor local problems. <br> ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00E5FF) [![View Repo](https://img.shields.io/badge/View_Repo-000000?style=flat-square&logo=github&logoColor=00E5FF)](https://github.com/Ashvinigowda/civictrack-ai) | cityflow-predictor 🚦 <br> Predicting city traffic flow patterns. <br> ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00E5FF) [![View Repo](https://img.shields.io/badge/View_Repo-000000?style=flat-square&logo=github&logoColor=00E5FF)](https://github.com/Ashvinigowda/cityflow-predictor) |
-|---|---|
-| smart-face-attendance 🎯 <br> Face-recognition based attendance system. <br> ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00E5FF) [![View Repo](https://img.shields.io/badge/View_Repo-000000?style=flat-square&logo=github&logoColor=00E5FF)](https://github.com/Ashvinigowda/smart-face-attendance) | distributed-cloud-orchestrator ☁️ <br> Orchestration for distributed cloud workloads. <br> ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF) [![View Repo](https://img.shields.io/badge/View_Repo-000000?style=flat-square&logo=github&logoColor=00E5FF)](https://github.com/Ashvinigowda/distributed-cloud-orchestrator) |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Languages & Tools 🛠️
 
