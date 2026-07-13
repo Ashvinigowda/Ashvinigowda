@@ -1,16 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=500&size=32&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&multiline=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashwini;Backend+%2B+AI%2FML+builder;Exploring+distributed+systems)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=30&pause=1500&color=4B5563&center=true&vCenter=true&multiline=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashwini;Backend+%2B+AI%2FML+builder;Exploring+distributed+systems)](https://git.io/typing-svg)
 
 Hi 👋, I'm Ashwini, a student from Bengaluru who enjoys building AI-powered tools and distributed systems — from smart civic apps to face-recognition attendance systems.
 
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:ashvinigowda1808@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashvinigowda1808@gmail.com)
 
 </div>
 
-### Languages & Tools 🛠️
+<br>
+
+### Languages & Tools
 
 <div align="center">
 
@@ -32,18 +32,18 @@ Hi 👋, I'm Ashwini, a student from Bengaluru who enjoys building AI-powered to
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashvinigowda&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=8892a4&icon_color=00E5FF&border_color=00E5FF30" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Ashvinigowda&background=000000&border=00E5FF30&ring=00E5FF&fire=00bcd4&currStreakLabel=00E5FF&sideLabels=8892a4&dates=3d5166&stroke=00E5FF15" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashvinigowda&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2d333b&text_color=57606a&icon_color=57606a&border_color=d0d7de" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Ashvinigowda&background=ffffff&border=d0d7de&ring=57606a&fire=57606a&currStreakLabel=2d333b&sideLabels=57606a&dates=8c959f&stroke=d0d7de" alt="GitHub streak" />
 
 </div>
 
-### Contribution Graph 👾
+### Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvinigowda&bg_color=000000&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true" alt="Contribution graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvinigowda&bg_color=ffffff&color=57606a&line=57606a&point=2d333b&hide_border=true" alt="Contribution graph" width="100%">
 
 <div align="center">
   <sub>Thanks for stopping by!</sub>
