@@ -1,33 +1,44 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=30&pause=1500&color=4B5563&center=true&vCenter=true&multiline=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashwini;Backend+%2B+AI%2FML+builder;Exploring+distributed+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=30&pause=1500&color=4B5563&center=true&vCenter=true&multiline=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashwini;AI+%7C+Arduino+%7C+Full-Stack+Developer;Building+Software+%26+Electronics+Projects)](https://git.io/typing-svg)
 
 Hi 👋, I'm Ashwini
+
+A Computer Science student from Bengaluru passionate about AI, Arduino, IoT, and Full-Stack Development.
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashvinigowda1808@gmail.com)
 
 </div>
 
 <br>
 
-### Languages & Tools
+### Languages & Technologies
 
 <div align="center">
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=py,ts,js,java" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,js" />
 
 **Frontend**
 <br>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-**Backend & Databases**
+**Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql" />
 
-**Tools & DevOps**
+**Electronics & IoT**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=arduino" />
+<br><br>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Blynk-23C48E?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoT-4285F4?style=flat-square"/>
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 
 </div>
 
@@ -45,5 +56,5 @@ Hi 👋, I'm Ashwini
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvinigowda&bg_color=ffffff&color=57606a&line=57606a&point=2d333b&hide_border=true" alt="Contribution graph" width="100%">
 
 <div align="center">
-  <sub>Thanks for stopping by!</sub>
+  <sub>Thanks for stopping by! ⭐</sub>
 </div>
